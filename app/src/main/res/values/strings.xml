@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GithubRepo</string>
+    <string name="detailRepo">Repository Detail</string>
+    <string name="tabcity1">RIO DE JANEIRO</string>
+    <string name="tabcity2">BEIJING</string>
+    <string name="tabcity3">LOS ANGELES</string>
+    <string name="image_contentDescription">image</string>
+
+</resources>
